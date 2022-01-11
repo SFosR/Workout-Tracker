@@ -1,0 +1,30 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFosR/Workout-Tracker.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFosR/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/SFosR/Workout-Tracker#readme"
+}
