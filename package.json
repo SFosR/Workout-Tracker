@@ -1,8 +1,16 @@
 {
-  "name": "workout-tracker",
+  "name": "mongoose_skeleton",
   "version": "1.0.0",
   "description": "\"\"",
   "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node server.js",
+    "devStart": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^11.0.0",
     "express": "^4.17.2",
@@ -12,21 +20,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  },
-  "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SFosR/Workout-Tracker.git"
-  },
-  "keywords": [
-    "\"\""
-  ],
-  "author": "\"\"",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SFosR/Workout-Tracker/issues"
   }
 }
+ 
