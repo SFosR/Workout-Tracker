@@ -16,10 +16,10 @@ https://tranquil-coast-92962.herokuapp.com/
 
 ## Technology Used:
 
-Mongo Database
-Mongoose
-Express 
-Heroku
+* Mongo Database
+* Mongoose
+* Express 
+* Heroku
 
 
 ## Created By:
