@@ -12,7 +12,7 @@ This app will allow the user to keep track of their daily workouts. Can also be 
 
 ## Live Link
 
-https://git.heroku.com/tranquil-coast-92962.git
+https://tranquil-coast-92962.herokuapp.com/
 
 ## Technology Used:
 
